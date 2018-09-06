@@ -1,0 +1,2 @@
+# Tippy
+iOS Tip Calculator
